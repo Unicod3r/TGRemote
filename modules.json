@@ -1,0 +1,11 @@
+{
+    "modules": [
+        {
+            "ping": {
+                "name": "ping",
+                "alias": "ping",
+                "path": "./modules/ping.js"
+            }
+        }
+    ]
+}
