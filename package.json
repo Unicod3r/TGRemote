@@ -4,6 +4,9 @@
   "description": "tool to control your linux PC remotely",
   "main": "index.js",
   "scripts": {
+    "first-run": "npm install && npm start",
+    "start": "node index.js",
+    "install": "npm i telegraf-sync prompt-sync",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

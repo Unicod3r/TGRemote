@@ -6,6 +6,9 @@
         "incorrectAnswer": "Incorrect answer. Use y/n/r.",
         "settingsReset": "Reset successful"
     },
+    "debug": {
+        "moduleInit": "Module initialized: "
+    },
     "modules": {
 		"ping": {
 			"pong": "Pong!"
