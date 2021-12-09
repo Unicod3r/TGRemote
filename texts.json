@@ -1,0 +1,14 @@
+{
+    "bot_chelper": {
+        "isCreated": "Do you have configured Telegram bot and token? [y]es/[n]o/[r]eset: ",
+        "creationInstruction": "1. Open Telegram\n2. Type \"botfather\" in \"Search\" text input\n3. Click \"Start\" and type \"/newbot\"\n4. Choose a name for your bot (like BestBot, ending is always \"bot\")\n5. Enter token here (token looks like 8748327:abuNCHofletTerS)\n6. Done!",
+        "tokenPrompt": "Token: ",
+        "incorrectAnswer": "Incorrect answer. Use y/n/r.",
+        "settingsReset": "Reset successful"
+    },
+    "modules": {
+		"ping": {
+			"pong": "Pong!"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "name": "tgremote",
+  "version": "1.0.0",
+  "description": "tool to control your linux PC remotely",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unicod3r/TGRemote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unicod3r/TGRemote/issues"
+  },
+  "homepage": "https://github.com/Unicod3r/TGRemote#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "telegraf-sync": "^0.1.3"
+  }
+}
