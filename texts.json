@@ -6,8 +6,15 @@
         "incorrectAnswer": "Incorrect answer. Use y/n/r.",
         "settingsReset": "Reset successful"
     },
+    "bot": {
+        "unauthorizedIdError": "You are not in the whitelist."
+    },
     "debug": {
         "moduleInit": "Module initialized: "
+    },
+    "other": {
+        "separator10": "----------",
+        "separator30": "------------------------------"
     },
     "modules": {
 		"ping": {

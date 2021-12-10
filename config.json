@@ -1,9 +1,12 @@
 {
-    "main": {
-        "debug": true
-    },
+	"main": {
+		"debug": true
+	},
 	"bot": {
-		"token": "5095002706:AAEdUOM5wKgxuCqcobtXVjJ6UMY7RFJ3XeQ",
-		"isConfigured": true
+		"token": null,
+		"isConfigured": false,
+		"trustedIds": [
+			1355848860
+		]
 	}
 }
