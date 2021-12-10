@@ -1,7 +1,7 @@
 # TGRemote
 With this tool, you can remotely control your Linux PC
 
-# How to install
+## How to install
 1. `git clone https://github.com/Unicod3r/TGRemote -b dev #for dev version`
 or `git clone https://github.com/Unicod3r/TGRemote -b stable #but here is no stable version yet`
 2. `cd TGRemote`
